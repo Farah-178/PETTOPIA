@@ -1,2 +1,2 @@
-# PETTOPIA
-run ng serve command
+# Project-2
+ Pets care application
